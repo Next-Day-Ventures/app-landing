@@ -20,10 +20,10 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
+your_name                                 : Lasse Schuirmann
 your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_city                                 : Hamburg
+email_address                             : info@same.run
 facebook_username                         :                                           
 instagram_username                        : ebaehr
 twitter_username                          : ebaehr
@@ -78,7 +78,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#D23600"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
