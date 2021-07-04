@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Commit to Runs
     description                           : Let an organizer know you're joining.
-    fontawesome_icon_name                 : user_plus
+    fontawesome_icon_name                 : user-plus
 
   - title                                 : Invite others
     description                           : Share runs with others
