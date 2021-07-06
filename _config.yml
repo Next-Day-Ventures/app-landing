@@ -6,8 +6,8 @@ ios_app_id                                : 1574399717                          
 ios_app_country                           : de                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://viperdev.io/en/press/                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+playstore_link                            : https://play.google.com/store/apps/details?id=com.viperdev.runline
+presskit_download_link                    : https://viperdev.io/en/press/
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -24,7 +24,7 @@ your_name                                 : Lasse Schuirmann
 your_link                                 : https://viperdev.io/
 your_city                                 : Hamburg
 email_address                             : info@same.run
-facebook_username                         :                                           
+facebook_username                         :
 instagram_username                        : ebaehr
 twitter_username                          : ebaehr
 github_username                           : emilbaehr
@@ -38,7 +38,7 @@ features                                  :
   - title                                 : Join Runs Wherever You Are
     description                           : A SameRun is a voice call so you can run together with your peers.
     fontawesome_icon_name                 : running
-    
+
   - title                                 : Commit to Runs
     description                           : Let an organizer know you're joining.
     fontawesome_icon_name                 : user-plus
