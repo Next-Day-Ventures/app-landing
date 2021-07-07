@@ -9,8 +9,9 @@ include_in_header: true
 ### `Latest`
 # **Version 1.1**
 
-Because apple was so slow in understanding our app, we decided to push a couple
-of extra features right for the launch.
+Because the apple review process was longer than our development time, we
+decided to push a couple of extra features right for the launch that we
+developed while waiting for them.
 
 #### What's New
 
