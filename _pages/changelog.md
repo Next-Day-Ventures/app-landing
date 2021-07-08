@@ -13,6 +13,7 @@ These changes are coming in the next release!
 Contact us at <info@same.run> if you want to become a tester.
 
 # **Version 1.2**
+Coming 2021, Mid July
 
 Minor fixes and quality of live improvements.
 
@@ -30,6 +31,7 @@ ________
 
 ### `Latest`
 # **Version 1.1**
+2021, July 7th
 
 Because the apple review process was longer than our development time, we
 decided to push a couple of extra features right for the launch that we
@@ -41,7 +43,7 @@ developed while waiting for them.
 - ADDITION: Show past and future committed runs
 - ADDITION: Let people share runs
 - ADDITION: Allow setting duration instead of distance
-- REDESIGN: Complete home screen redesign
+- IMPROVEMENT: Complete home screen redesign
 
 <br>
 
@@ -51,6 +53,7 @@ ________
 ### `Initial Release`
 
 # **Version 1.0**
+Beginning of July 2021
 
 After only 4 days development time, we built an MVP and started running with it!
 
