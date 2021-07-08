@@ -22,6 +22,7 @@ Minor fixes and quality of live improvements.
 - ADDITION: Show number of users in active channel
 - IMPROVEMENT: Optimize audio call for better speech quality
 - IMPROVEMENT: Improved handling for connection interruptions
+- IMPROVEMENT: Add splash screen
 - BUGFIX: Recapture audio device when e.g. receiving calls during a run
 
 <br>
