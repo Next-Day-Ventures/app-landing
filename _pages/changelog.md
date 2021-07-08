@@ -6,6 +6,23 @@ include_in_header: true
 
 # Changelog
 
+### `Upcoming (Unreleased)` - These changes are coming in the next release!
+# **Version 1.2**
+
+Minor fixes and quality of live improvements.
+
+#### What's New
+
+- ADDITION: Show number of users in active channel
+- IMPROVEMENT: Optimize call settings for speech
+- IMPROVEMENT: Improved handling for connection interruptions
+- BUGFIX: Recapture audio device when e.g. receiving calls during a run
+
+<br>
+
+________
+<br>
+
 ### `Latest`
 # **Version 1.1**
 
