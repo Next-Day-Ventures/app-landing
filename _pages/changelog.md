@@ -6,7 +6,12 @@ include_in_header: true
 
 # Changelog
 
-### `Upcoming (Unreleased)` - These changes are coming in the next release!
+### `Upcoming (Unreleased)`
+
+These changes are coming in the next release!
+
+Contact us at <info@same.run> if you want to become a tester.
+
 # **Version 1.2**
 
 Minor fixes and quality of live improvements.
