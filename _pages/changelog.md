@@ -20,7 +20,7 @@ Minor fixes and quality of live improvements.
 #### What's New
 
 - ADDITION: Show number of users in active channel
-- IMPROVEMENT: Optimize call settings for speech
+- IMPROVEMENT: Optimize audio call for better speech quality
 - IMPROVEMENT: Improved handling for connection interruptions
 - BUGFIX: Recapture audio device when e.g. receiving calls during a run
 
