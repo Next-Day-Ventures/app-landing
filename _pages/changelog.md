@@ -23,6 +23,7 @@ Minor fixes and quality of live improvements.
 - IMPROVEMENT: Optimize audio call for better speech quality
 - IMPROVEMENT: Improved handling for connection interruptions
 - IMPROVEMENT: Add splash screen
+- IMPROVEMENT: Images for tutorials are packed into the app now
 - BUGFIX: Recapture audio device when e.g. receiving calls during a run
 
 <br>
