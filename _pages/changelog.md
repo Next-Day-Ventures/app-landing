@@ -15,17 +15,19 @@ These changes are coming in the next release!
 Contact us at <info@same.run> if you want to become a tester.
 
 # **Version 1.3**
-2021, mid July
-
-Minor fixes and quality of live improvements.
+2021, July 10
 
 #### What's New
 
 - ADDITION: Add nickname to user profile
 - ADDITION: Add profile picture to user profile
 - ADDITION: Show runners signed up for a run
+- ADDITOIN: Add FAQs
+- ADDITION: Show notifications when people commit to my runs
+- IMPROVEMENT: More consistent loader indicators
 - IMPROVEMENT: Use consistent textbox style
 - IMPROVEMENT: Reorganize links into a drawer menu
+- BUGFIX: Various minor fixes
 
 <br>
 
