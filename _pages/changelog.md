@@ -6,14 +6,35 @@ include_in_header: true
 
 # Changelog
 
+**Note that apple users will generally get their releases later, as the build and review process is longer and requires a Mac. Also, occasionally, we'll do two releases on Android while iOS just skips one due to those circumstances. The indicated release dates are Android release dates, Apple can be about a week delayed.**
+
 ### `Upcoming (Unreleased)`
 
 These changes are coming in the next release!
 
 Contact us at <info@same.run> if you want to become a tester.
 
+# **Version 1.3**
+2021, mid July
+
+Minor fixes and quality of live improvements.
+
+#### What's New
+
+- ADDITION: Add nickname to user profile
+- ADDITION: Add profile picture to user profile
+- ADDITION: Show runners signed up for a run
+- IMPROVEMENT: Use consistent textbox style
+- IMPROVEMENT: Reorganize links into a drawer menu
+
+<br>
+
+________
+<br>
+
+### `Latest`
 # **Version 1.2**
-Coming 2021, Mid July
+2021, July 9
 
 Minor fixes and quality of live improvements.
 
@@ -31,7 +52,6 @@ Minor fixes and quality of live improvements.
 ________
 <br>
 
-### `Latest`
 # **Version 1.1**
 2021, July 7th
 
