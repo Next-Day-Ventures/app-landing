@@ -19,7 +19,7 @@ Contact us at <info@same.run> if you want to become a tester.
 
 #### What's New
 
-- Nothing here yet :)
+- ADDITION: German translation available now (based on Phone system language)
 
 <br>
 
