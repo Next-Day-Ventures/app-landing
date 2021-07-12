@@ -13,9 +13,22 @@ include_in_header: true
 These changes are coming in the next release!
 
 Contact us at <info@same.run> if you want to become a tester.
+# **Version 1.5**
+2021, Unclear
 
+#### What's New
+
+- TODO, based on initial user feedback
+
+<br>
+
+________
+<br>
+
+
+### `Latest`
 # **Version 1.4**
-2021, July
+2021, July 12
 
 #### What's New
 
@@ -26,7 +39,6 @@ Contact us at <info@same.run> if you want to become a tester.
 ________
 <br>
 
-### `Latest`
 # **Version 1.3**
 2021, July 10
 
