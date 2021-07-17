@@ -31,4 +31,5 @@ include_in_header: false
     document.getElementById("author").src = params.picture;
     document.getElementById("planned_start").innerHTML = params.planned_datetime;
     document.getElementById("distance").innerHTML = params.distance;
+    document.getElementById("lang").innerHTML = params.language_icon;
 </script>
