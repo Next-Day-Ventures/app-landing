@@ -6,9 +6,14 @@ include_in_header: false
 <h1 id='title'>Run</h1>
 <h2 id='subtitle'></h2>
 <div>Please open the SameRun app for more information.</div>
-<img alt='Author Profile' id='author' height='200px'/>
-<div id='planned_start'></div>
-<div><span id='distance'></span>km</div>
+<img alt='Author Profile' id='author' style="
+  width:100px;
+  height:100px;
+  object-fit:cover;
+  border-radius:50%;
+"/>
+<div>Starting <span id='planned_start'></span>, until about <span id='planned_end'></span></div>
+<div>Estimated km: <span id='distance'></span></div>
 <div>Languages: <span id='lang'></span></div>
 
 <script>
@@ -29,7 +34,8 @@ include_in_header: false
     document.getElementById("title").innerHTML = params.title.replace(/\+/g, " ");
     document.getElementById("subtitle").innerHTML = params.description.replace(/\+/g, " ");
     document.getElementById("author").src = params.picture;
-    document.getElementById("planned_start").innerHTML = params.planned_datetime;
+    document.getElementById("planned_start").innerHTML = params.planned_datetime.replace(/\+/g, " ").substr(0, 16);
+    document.getElementById("planned_end").innerHTML = params.planned_end.replace(/\+/g, " ").substr(0, 16);
     document.getElementById("distance").innerHTML = params.distance;
-    document.getElementById("lang").innerHTML = params.language_icon;
+    document.getElementById("lang").innerHTML = params.language_icon.replace(/\+/g, " ");
 </script>
