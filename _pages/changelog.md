@@ -34,6 +34,7 @@ Contact us at <info@same.run> if you want to become a tester.
 #### Improvements
 
 - Add a loader for committed runners
+- Committed runners are sorted alphabetically now
 
 #### Bugfixes
 
