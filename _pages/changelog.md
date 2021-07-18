@@ -13,12 +13,32 @@ include_in_header: true
 These changes are coming in the next release!
 
 Contact us at <info@same.run> if you want to become a tester.
+
 # **Version 1.5**
-2021, Unclear
+2021, KW 29
 
-#### What's New
+### What's New
 
-- TODO, based on initial user feedback
+#### Features
+
+- Runs can have descriptions now!
+- Runs can have spoken languages now!
+- Runs have a detail page.
+- Sharing a run includes a direct link now that:
+    - Opens the app if installed
+    - Opens the respective app store on smartphones
+    - Shows basic run details on desktop
+- Ask for confirmation before deleting a run
+- Ask for confirmation before leaving a run via back button
+
+#### Improvements
+
+- Add a loader for committed runners
+
+#### Bugfixes
+
+- Fix a bug where committed runners aren't properly reloaded after uncommitting from a run.
+- Improved reporting for error cases.
 
 <br>
 
