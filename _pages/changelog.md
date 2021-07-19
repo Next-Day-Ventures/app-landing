@@ -41,6 +41,7 @@ ________
     - Shows basic run details on desktop
 - Ask for confirmation before deleting a run
 - Ask for confirmation before leaving a run via back button
+- Run host is highlighted now.
 
 #### Improvements
 
