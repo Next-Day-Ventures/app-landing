@@ -42,6 +42,7 @@ ________
 - Ask for confirmation before deleting a run
 - Ask for confirmation before leaving a run via back button
 - Run host is highlighted now.
+- Runlist has a swipe down reloader now.
 
 #### Improvements
 
