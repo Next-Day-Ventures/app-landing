@@ -14,8 +14,19 @@ These changes are coming in the next release!
 
 Contact us at <info@same.run> if you want to become a tester.
 
+# **Version 1.6**
+2021, somewhen in July
+
+<br>
+
+________
+<br>
+
+
+### `Latest`
+
 # **Version 1.5**
-2021, KW 29
+2021, July 19
 
 ### What's New
 
@@ -47,7 +58,6 @@ ________
 <br>
 
 
-### `Latest`
 # **Version 1.4**
 2021, July 12
 
