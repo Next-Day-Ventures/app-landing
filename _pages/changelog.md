@@ -15,7 +15,17 @@ These changes are coming in the next release!
 Contact us at <info@same.run> if you want to become a tester.
 
 # **Version 1.6**
-2021, somewhen in July
+2021, July
+
+### What's New
+
+With this release we welcome strollers and bikers to our app as we've seen
+several non runners using it!
+
+#### Features
+
+- Runs can be of type Walk/Run/Bike now
+- Noise suppression was added for the actual runs
 
 <br>
 
