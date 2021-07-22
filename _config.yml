@@ -38,13 +38,25 @@ features                                  :
     description                           : A SameRun is a voice call so you can run together with your peers.
     fontawesome_icon_name                 : running
 
+  - title                                 : AI Based Noise Cancellation
+    description                           : Reduce wind and stepping noises.
+    fontawesome_icon_name                 : microphone-alt
+
+  - title                                 : Invite Others
+    description                           : Share runs with others.
+    fontawesome_icon_name                 : share
+
   - title                                 : Commit to Runs
     description                           : Let an organizer know you're joining.
     fontawesome_icon_name                 : user-plus
 
-  - title                                 : Invite others
-    description                           : Share runs with others
-    fontawesome_icon_name                 : share
+  - title                                 : Stay up to Date
+    description                           : Get notifications for moved or cancelled runs.
+    fontawesome_icon_name                 : calendar-alt
+
+  - title                                 : Bike or Walk
+    description                           : Wether you're in for a run, stroll oder bike ride - you're welcome!
+    fontawesome_icon_name                 : bicycle
 
 
 # Theme Settings

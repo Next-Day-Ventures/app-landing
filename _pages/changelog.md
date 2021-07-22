@@ -26,6 +26,9 @@ several non runners using it!
 
 - Runs can be of type Walk/Run/Bike now
 - Noise suppression was added for the actual runs
+- Add notifications for removed commitment
+- Add notifications for cancelled runs
+- Add notifications for moved runs
 
 <br>
 
