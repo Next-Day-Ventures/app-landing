@@ -22,6 +22,8 @@ Contact us at <info@same.run> if you want to become a tester.
 With this release we welcome strollers and bikers to our app as we've seen
 several non runners using it!
 
+We also are proud to add AI based noise cancellation to all our runs!
+
 #### Features
 
 - Runs can be of type Walk/Run/Bike now
@@ -29,6 +31,19 @@ several non runners using it!
 - Add notifications for removed commitment
 - Add notifications for cancelled runs
 - Add notifications for moved runs
+
+#### Improvements
+
+- Committers are getting reloaded *live* now
+- Date and time on run creation are more prominently displayed
+- Initially proposed time for new runs is rounded to the next hour
+
+#### Bugfixes
+
+- A run is now only savable once also if no internet connection is available
+- Runs become joinable at their time without reload
+- A bug where deeplinks kept opening has been resolved
+- Further minor bugfixes
 
 <br>
 
