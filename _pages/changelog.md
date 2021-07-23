@@ -14,8 +14,18 @@ These changes are coming in the next release!
 
 Contact us at <info@same.run> if you want to become a tester.
 
-# **Version 1.6**
+# **Version 1.7**
 2021, July
+
+<br>
+
+________
+<br>
+
+
+### `Latest`
+# **Version 1.6**
+2021, July 23
 
 ### What's New
 
@@ -49,9 +59,6 @@ We also are proud to add AI based noise cancellation to all our runs!
 
 ________
 <br>
-
-
-### `Latest`
 
 # **Version 1.5**
 2021, July 19
