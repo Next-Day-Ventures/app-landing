@@ -29,6 +29,6 @@ include_in_header: false
     }
     var params = getSearchParameters();
     document.getElementById("nickname").innerHTML = params.nickname.replace(/\+/g, " ");
-    document.getElementById("profile_bio").innerHTML = params.profile_bio.replace(/\+/g, " ");
+    document.getElementById("profile_bio").innerHTML = params.profile_bio.replace(/\+/g, " ") ?? 'This user does not have a bio yet.';
     document.getElementById("image").src = params.picture;
 </script>

@@ -17,6 +17,22 @@ Contact us at <info@same.run> if you want to become a tester.
 # **Version 1.7**
 2021, July
 
+### What's New
+
+We are finally getting followers, so you can stay up to date on the runs of other people!
+
+#### Features
+
+- A user profile page exists
+- Users now have a short bio
+- User profiles can be shared
+- Users have followers and can be followed
+
+#### Bugfixes
+
+- Translation updates
+- Minor fixes under the hood
+
 <br>
 
 ________
