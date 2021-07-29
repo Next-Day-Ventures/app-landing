@@ -28,7 +28,9 @@ include_in_header: false
         return params;
     }
     var params = getSearchParameters();
+    var bio = params.profile_bio.replace(/\+/g, " ");
+    if (bio == "undefined") bio = 'This user does not have a bio yet.';
     document.getElementById("nickname").innerHTML = params.nickname.replace(/\+/g, " ");
-    document.getElementById("profile_bio").innerHTML = params.profile_bio.replace(/\+/g, " ") ?? 'This user does not have a bio yet.';
+    document.getElementById("profile_bio").innerHTML = bio;
     document.getElementById("image").src = params.picture;
 </script>

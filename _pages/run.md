@@ -31,8 +31,10 @@ include_in_header: false
         return params;
     }
     var params = getSearchParameters();
+    var description = params.description.replace(/\+/g, " ");
+    if (description == "undefined") description = 'This run does not have a description.';
     document.getElementById("title").innerHTML = params.title.replace(/\+/g, " ");
-    document.getElementById("subtitle").innerHTML = params.description.replace(/\+/g, " ") ?? 'No subtitle given.';
+    document.getElementById("subtitle").innerHTML = description;
     document.getElementById("author").src = params.picture;
     document.getElementById("planned_start").innerHTML = params.planned_datetime.replace(/\+/g, " ").substr(0, 16);
     document.getElementById("planned_end").innerHTML = params.planned_end.replace(/\+/g, " ").substr(0, 16);
