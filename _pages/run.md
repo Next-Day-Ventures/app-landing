@@ -5,7 +5,7 @@ include_in_header: false
 ---
 <h1 id='title'>Run</h1>
 <h2 id='subtitle'></h2>
-<div>Please open the SameRun app for more information.</div>
+<div>Please open the <a href="/">SameRun</a> app for more information.</div>
 <img alt='Author Profile' id='author' style="
   width:100px;
   height:100px;

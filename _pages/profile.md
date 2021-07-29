@@ -5,7 +5,7 @@ include_in_header: false
 ---
 <h1 id='nickname'>User Profile</h1>
 <h3 id='profile_bio'></h3>
-<div>Please open the SameRun app for more information.</div>
+<div>Please open the <a href="/">SameRun</a> app for more information.</div>
 <img alt='Profile Image' id='image' style="
   width:100px;
   height:100px;
