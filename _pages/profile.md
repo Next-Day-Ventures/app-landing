@@ -3,8 +3,8 @@ layout: page
 title: Profile
 include_in_header: false
 ---
-<h1 id='nickname'>User Profile</h1>
-<h3 id='profile_bio'></h3>
+<h1>User Profile: <span id='nickname'></span></h1>
+<div>Profile bio: <span id='profile_bio'></span></div>
 <div>Please open the <a href="/">SameRun</a> app for more information.</div>
 <img alt='Profile Image' id='image' style="
   width:100px;
