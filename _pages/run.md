@@ -3,6 +3,7 @@ layout: page
 title: Run
 include_in_header: false
 ---
+
 <h1 id='title'>Run</h1>
 <h2 id='subtitle'></h2>
 <div>Please open the <a href="/">SameRun</a> app for more information.</div>

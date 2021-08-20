@@ -14,6 +14,34 @@ These changes are coming in the next release!
 
 Contact us at <info@same.run> if you want to become a tester.
 
+# **Version 1.8**
+2021, August 22nd
+
+### What's New
+
+I found some time for the app again and we got some great updates to make this app a lot more social!
+
+#### Features
+
+- "My Runs" have been moved to the Profile page
+- Inviting users via the address book is now possible
+- A feed for runs from followed users is now available
+- Runs can be nonpublic now (for followers and people with a direct share link)
+- Further explanation about SameRun has been added to the tutorial
+
+#### Bugfixes
+
+- It's no longer possible to save a run in the past
+- A bug where an own run would not become joinable without a manual refresh is fixed
+- Multiple upstream upgrades and bugfixes
+
+<br>
+
+________
+<br>
+
+
+### `Latest`
 # **Version 1.7**
 2021, July
 
@@ -39,7 +67,6 @@ ________
 <br>
 
 
-### `Latest`
 # **Version 1.6**
 2021, July 23
 
