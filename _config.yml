@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : microphone-alt
 
   - title                                 : Invite Others
-    description                           : Share runs with others.
+    description                           : Share runs with others and follow them to recieve notifications when they run.
     fontawesome_icon_name                 : share
 
   - title                                 : Commit to Runs
