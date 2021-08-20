@@ -34,6 +34,7 @@ I found some time for the app again and we got some great updates to make this a
 - It's no longer possible to save a run in the past
 - A bug where an own run would not become joinable without a manual refresh is fixed
 - Multiple upstream upgrades and bugfixes
+- Various minor fixes
 
 <br>
 
