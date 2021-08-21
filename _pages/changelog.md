@@ -14,6 +14,7 @@ These changes are coming in the next release!
 
 Contact us at <info@same.run> if you want to become a tester.
 
+### `Latest`
 # **Version 1.8**
 2021, August 22nd
 
@@ -28,6 +29,7 @@ I found some time for the app again and we got some great updates to make this a
 - A feed for runs from followed users is now available
 - Runs can be nonpublic now (for followers and people with a direct share link)
 - Further explanation about SameRun has been added to the tutorial
+- Distance is removed from runs to simplify the app
 
 #### Bugfixes
 
@@ -42,7 +44,6 @@ ________
 <br>
 
 
-### `Latest`
 # **Version 1.7**
 2021, July
 
