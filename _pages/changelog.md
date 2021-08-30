@@ -20,9 +20,9 @@ Contact us at <info@same.run> if you want to become a tester.
 
 #### Features
 
--   Major profile redesign
--   Contact invite redesign
--   Performance and stability improvements
+Major profile redesign
+Contact invite redesign
+Performance and stability improvements
 
 ### `Latest`
 
